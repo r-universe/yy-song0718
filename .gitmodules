@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "scOntoMatch"]
+	path = scOntoMatch
+	url = https://github.com/yy-song0718/scontomatch
+	shallow = true
+	registered = true
